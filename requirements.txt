@@ -1,0 +1,13 @@
+sqlalchemy
+pandas
+psycopg2-binary
+langchain
+langchain-google-genai
+langchain_core
+streamlit
+python-dotenv
+google-generativeai
+langchain-openai
+langchain_community
+chromadb
+sentence-transformers
