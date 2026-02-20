@@ -9,7 +9,6 @@ A conversational interface for querying PostgreSQL databases using natural langu
 ```
 SQL_C_/
 ├── app.py                  # Main Streamlit app entry point
-├── app_langchain.py        # Alternative LangChain-based app
 ├── chains.py               # LangChain chain definitions (SQL, answer, table selector)
 ├── config.py               # LLM setup and environment config
 ├── database.py             # DB connection, schema extraction, query execution
