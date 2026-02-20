@@ -26,7 +26,8 @@ SQL_C_/
 │   └── chroma_store/       # Persisted ChromaDB vector store
 ├── requirements.txt
 ├── .env
-└── .env.example
+├── .env.example
+└── .gitignore
 ```
 
 ---
